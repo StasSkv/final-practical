@@ -1,11 +1,11 @@
 {
-  "name": "vite_test",
+  "name": "final-practical",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vite_test/",
+    "build": "vite build --base=/final-practical/",
     "preview": "vite preview"
   },
   "devDependencies": {
